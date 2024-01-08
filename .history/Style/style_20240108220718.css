@@ -381,28 +381,9 @@
 }
 
 .footer-social{
-    text-align: center;
-    padding: 48px 0;
+    margin: 48px auto;
 }
 .footer-social a{
     width: 64px;
-    margin-right: 24px;
-}
-.footer-social a:hover{
-    filter: grayscale(1);
-}
-
-.reserved{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 50px;
-}
-.reserved p{
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
+    padding-right: 24px;
 }

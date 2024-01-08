@@ -390,19 +390,5 @@
 }
 .footer-social a:hover{
     filter: grayscale(1);
-}
-
-.reserved{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 50px;
-}
-.reserved p{
-    color: #FFF;
-    font-family: Inter;
-    font-size: 24px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: normal;
+    transform: scale(1);
 }
