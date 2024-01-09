@@ -411,9 +411,7 @@
 
 
 /* holiday section css style */
-#holiday{
-    margin-bottom: 128px;
-}
+
 .holiday-container{
     text-align: center;
 }
@@ -422,30 +420,9 @@
     margin: 0 auto;
 }
 .holiday-back-img{
-    display: flex;
-    align-items: center;
-    margin-top: 48px;
-    background-image: url(../images/Rectangle\ 1.png);
+    background-image: url(../images/Rectangle\ 2.png);
     background-repeat: no-repeat;
-    background-size: contain;
-    height: 60vh;
-    background-position: bottom right;
-}
-.holiday-back-img .holiday-gift-content {
-    width: 600px;
-    position: relative;
-    bottom: -110px;
-    left: 50px;
-}
-.holiday-back-img .holiday-gift-content img{
-    max-width: 100%;
-}
-.holiday-back-img .holiday-discount-content{
-    width: 250px;
-}
-.holiday-back-img .holiday-discount-content img{
-    max-width: 100%;
-}
-.holiday-bottom img{
-    width: 100%;
+    background-position: bottom;
+    background-size: cover;
+    height: 100vh;
 }

@@ -431,21 +431,28 @@
     height: 60vh;
     background-position: bottom right;
 }
-.holiday-back-img .holiday-gift-content {
+.holiday-back-img .holiday-gift-content{
     width: 600px;
-    position: relative;
-    bottom: -110px;
-    left: 50px;
 }
 .holiday-back-img .holiday-gift-content img{
     max-width: 100%;
 }
 .holiday-back-img .holiday-discount-content{
-    width: 250px;
+    width: 220px;
 }
 .holiday-back-img .holiday-discount-content img{
     max-width: 100%;
 }
+/* .holiday-back-img .holiday-ladies-content{
+    width: 429px;
+    position: relative;
+    bottom: -34px;
+    left: 0;
+}
+.holiday-back-img .holiday-ladies-content img{
+    max-width: 100%;
+} */
+
 .holiday-bottom img{
     width: 100%;
 }

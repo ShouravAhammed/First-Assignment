@@ -20,10 +20,6 @@
     color: #F00;
     line-height: normal;
 }
-/* title-color */
-.title-color{
-    color: #F00;
-}
 /* banner section related css style */
 #banner{
     margin-top: 30px;
@@ -168,6 +164,9 @@
     font-weight: 600;
     line-height: 56px;
     text-transform: capitalize;
+}
+.announce-content .announce-title .title-color{
+    color: #F00;
 }
 .announce-btn{
     font-family: Inter;
@@ -411,41 +410,11 @@
 
 
 /* holiday section css style */
-#holiday{
-    margin-bottom: 128px;
-}
+
 .holiday-container{
     text-align: center;
 }
 .holiday-container .holiday-content{
-    width: 920px;
+    width: 1068px;
     margin: 0 auto;
-}
-.holiday-back-img{
-    display: flex;
-    align-items: center;
-    margin-top: 48px;
-    background-image: url(../images/Rectangle\ 1.png);
-    background-repeat: no-repeat;
-    background-size: contain;
-    height: 60vh;
-    background-position: bottom right;
-}
-.holiday-back-img .holiday-gift-content {
-    width: 600px;
-    position: relative;
-    bottom: -110px;
-    left: 50px;
-}
-.holiday-back-img .holiday-gift-content img{
-    max-width: 100%;
-}
-.holiday-back-img .holiday-discount-content{
-    width: 250px;
-}
-.holiday-back-img .holiday-discount-content img{
-    max-width: 100%;
-}
-.holiday-bottom img{
-    width: 100%;
 }
